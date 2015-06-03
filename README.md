@@ -1,2 +1,2 @@
 # sour
-Sass mixins to make Bourbon better
+Sass mixins to add to Bourbon
